@@ -28,3 +28,7 @@ nav .breadcrumb .active {
     display: none;
     padding-left: 0;
 }
+
+header .menu .drop-down .sub-menu .sub-menu-list a:hover {
+    padding-right: 10px;
+}
